@@ -20,7 +20,7 @@ Thiago Renatino | RM: 569073
 ---
 
 ## 🛑 Problema e Justificativa
-A transição da mobilidade elétrica para o ambiente comercial (varejo, shoppings, supermercados) esbarra em um limite físico grave: a capacidade da rede elétrica local [4, 5]. 
+A transição da mobilidade elétrica para o ambiente comercial (varejo, shoppings, supermercados) esbarra em um limite físico grave: a capacidade da rede elétrica local. 
 
 A instalação de múltiplos eletropostos (como o modelo HCA G2 de 22 kW da GoodWe) sem orquestração de potência gera picos de consumo simultâneos. Isso resulta na ultrapassagem da demanda contratada junto à distribuidora, acarretando multas severas (sob a Resolução ANEEL nº 1.000/2021) e o risco de desarmamento de todo o circuito elétrico do estabelecimento. 
 
